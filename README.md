@@ -1,4 +1,4 @@
-                                                                                       Snake Game 🐍
+                                                                    Snake Game 🐍
 This is a classic Snake Game implemented in Python using the pygame library. The game challenges players to control a snake, eat food to grow, and avoid colliding with the walls or itself.
 
 🎮 Features
