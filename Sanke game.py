@@ -1,10 +1,3 @@
-
-"""
-Created on Wed Dec 18 18:02:40 2024
-
-@author: NAGENDRA
-"""
-
 from tkinter import *
 import random
 
